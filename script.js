@@ -1,1 +1,3 @@
-hello world!
+function test() {
+	alert(123);
+}
